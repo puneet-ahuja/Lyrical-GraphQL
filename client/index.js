@@ -8,6 +8,8 @@ import SongList from './components/SongList';
 import App from './components/App';
 import SongCreate from './components/SongCreate/SongCreate';
 
+import './style/style.css'
+
 
 const client = new ApolloClient({});
 
